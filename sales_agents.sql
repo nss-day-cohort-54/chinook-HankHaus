@@ -1,0 +1,1 @@
+select * from Employee where Title like '%Sales%' and Title like '%Agent%'
